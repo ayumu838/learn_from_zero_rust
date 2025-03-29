@@ -12,3 +12,7 @@ path = "src/linked_list.rs"
 name="b_tree_map"
 path="src/b_tree_map.rs"
 
+[[bin]]
+name="iterators"
+path="src/iterators.rs"
+
