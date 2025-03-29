@@ -16,3 +16,7 @@ path="src/b_tree_map.rs"
 name="iterators"
 path="src/iterators.rs"
 
+[[bin]]
+name="thread"
+path="src/thread.rs"
+
