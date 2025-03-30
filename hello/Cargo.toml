@@ -20,3 +20,9 @@ path="src/iterators.rs"
 name="thread"
 path="src/thread.rs"
 
+
+[[bin]]
+name="channel"
+path="src/channel.rs"
+
+
