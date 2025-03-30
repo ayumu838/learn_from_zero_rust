@@ -25,4 +25,7 @@ path="src/thread.rs"
 name="channel"
 path="src/channel.rs"
 
+[[bin]]
+name="channel_sort_example"
+path="src/channel_sort_example.rs"
 
