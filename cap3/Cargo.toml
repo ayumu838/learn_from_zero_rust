@@ -1,0 +1,9 @@
+[package]
+name = "cap3"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+[[bin]]
+name = "stack_memory"
+path = "src/stack_memory.rs"
