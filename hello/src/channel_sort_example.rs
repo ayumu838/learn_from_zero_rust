@@ -17,7 +17,7 @@ impl XOR64 {
   }
 }
 
-const NUM: usize = 200_000_000;
+const NUM: usize = 2_000_000;
 fn randomized_vec() -> (Vec<u64>, Vec<u64>) {
   let mut v1 = Vec::new();
   let mut v2 = Vec::new();
