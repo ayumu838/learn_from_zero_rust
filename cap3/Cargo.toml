@@ -7,3 +7,7 @@ edition = "2021"
 [[bin]]
 name = "stack_memory"
 path = "src/stack_memory.rs"
+
+[[bin]]
+name="ownership"
+path="src/ownership.rs"
