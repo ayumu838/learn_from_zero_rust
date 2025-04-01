@@ -11,3 +11,7 @@ path = "src/stack_memory.rs"
 [[bin]]
 name="ownership"
 path="src/ownership.rs"
+
+[[bin]]
+name="lifetime"
+path="src/lifetime.rs"
